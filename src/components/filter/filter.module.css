@@ -1,0 +1,23 @@
+.filter {
+  width: 600px;
+  padding-inline: 40px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+}
+
+.filter__lable {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+}
+
+.filter__input {
+  width: 350px;
+
+}

@@ -1,0 +1,47 @@
+.addForm {
+  width: 600px;
+  padding: 40px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #EEEEEE;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.addForm__title {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.addForm__lable {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+
+}
+
+.button {
+  display: block;
+  margin-top: 20px;
+  width: 150px;
+  height: 40px;
+  background: #4fa1e4;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: white;
+  border: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.88;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+
+.addForm__input {
+  width: 350px;
+  margin-bottom: 15px;
+}
